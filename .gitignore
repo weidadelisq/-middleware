@@ -1,0 +1,12 @@
+.project
+.settings
+.classpath
+*/target/
+.idea
+*.log
+*.iml
+*-local.properties
+*.DS_Store
+/classes
+**/.factorypath
+**/bin/
