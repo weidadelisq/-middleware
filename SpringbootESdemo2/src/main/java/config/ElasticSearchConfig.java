@@ -21,7 +21,6 @@ import java.net.UnknownHostException;
  * @Date 2018/10/15
  */
 @Configuration
-@Component
 @PropertySource(value = "classpath:config/elasticsearch.properties")
 public class ElasticSearchConfig {
     private static final Logger logger = LoggerFactory.getLogger(ElasticSearchConfig.class);
